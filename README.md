@@ -6,6 +6,8 @@ Penalty Manager — Frontend UI for the Penalties & Blocking Smart Contract (Fla
 ## Contract Address
 `0xFdD8F2C4a0e8A62F9dCFC4586491bDc50169b415`  
 Explorer: https://coston2-explorer.flare.network/address/0xFdD8F2C4a0e8A62F9dCFC4586491bDc50169b415
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/e1f41b5d-f296-41c5-9ac5-24e5dfe3a3d9" />
+
 
 ## Description
 This project is a lightweight React/Next (client) frontend that integrates with a deployed Penalties/Blocking smart contract on the Flare Coston2 test network. The UI provides tools for:
